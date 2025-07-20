@@ -3,5 +3,3 @@
 <template>
   <LookForward />
 </template>
-
-<style scoped></style>

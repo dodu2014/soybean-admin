@@ -94,7 +94,6 @@
   },
   "devDependencies": {
     "@amap/amap-jsapi-types": "0.0.15",
-    "@elegant-router/vue": "0.3.8",
     "@iconify/json": "2.2.359",
     "@sa/scripts": "workspace:*",
     "@sa/uno-preset": "workspace:*",
@@ -111,6 +110,7 @@
     "@vitejs/plugin-vue": "6.0.0",
     "@vitejs/plugin-vue-jsx": "5.0.1",
     "consola": "3.4.2",
+    "elegant-router": "1.0.4-beta.5",
     "eslint": "9.31.0",
     "eslint-plugin-vue": "10.3.0",
     "kolorist": "1.8.0",
